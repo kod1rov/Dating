@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rating App</string>
+    <string name="findPartner">Find your partner with us</string>
+    <string name="joinUsText">Join us and socialize with millions \n of peoples</string>
+    <string name="sign_upText">Sign Up</string>
+    <string name="sign_inText">Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_passwordText">Your password</string>
+    <string name="your_emailText">Your email</string>
+    <string name="checkBoxText">I am over 18 and I accept the <a href="https://www.google.com/"><font color="#F5A72A">Terms and\nConditions</font></a> and <a href="https://www.google.com/"><font color="#F5A72A">Privacy Policy</font></a></string>
+    <string name="profile_details">Profile details</string>
+    <string name="your_nameText">Your name</string>
+    <string name="choose_birthday_dateText">Choose birthday date</string>
+    <string name="your_genderText">Your gender</string>
+    <string name="continueText">Continue</string>
+    <string name="messagesText">Messages</string>
+    <string name="about_meText">About me</string>
+    <string name="lorem_Text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis sit quam tempor nisi, pellentesque venenatis accumsan erat. Semper ultrices commodo orci diam sit morbi. Id tortor diam senectus iaculis cursus duis tellus aliquet in. Pretium et ornare purus nisi.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sagittis sit quam tempor nisi, pellentesque venenatis accumsan erat. Semper ultrices commodo orci diam sit morbi. Id tortor diam senectus iaculis cursus duis tellus aliquet in. Pretium et ornare purus nisi.</string>
+    <string name="setting">SETTING</string>
+    <string name="type_somethingText">Type something...</string>
+    <string name="start_a_conversation_now_eith_each_otherText">Start a conversation now eith each other!</string>
+    <string name="say_something_niceText">Say something nice</string>
+    <string name="kepp_swipingText">Kepp swiping</string>
+</resources>

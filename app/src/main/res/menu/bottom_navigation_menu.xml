@@ -1,0 +1,18 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hotOrNotFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_frame_26"
+        tools:ignore="MenuTitle" />
+    <item
+        android:id="@+id/chatFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_bi_chat_dots"
+        tools:ignore="MenuTitle"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_carbon_user_avatar"
+        tools:ignore="MenuTitle"/>
+</menu>
